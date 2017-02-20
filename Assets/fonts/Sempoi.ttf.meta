@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6a732d12727b4e04fb294f8066d5ef12
+timeCreated: 1486643284
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sempoi
+  fontNames:
+  - Sempoi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
